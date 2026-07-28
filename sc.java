@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class sc {
     public static void main(String[] args) {
-        Scanner scan = new Scanner(System.in);
+        Scanner scan= new Scanner(System.in);
         int input = scan.nextInt();
         // System.out.println(input);
         // System.out.println("name"+"from"+input);
@@ -14,7 +14,7 @@ public class sc {
         else{
             System.out.println("not");
         }
-
+        scan.close(); 
 
     }
 }
