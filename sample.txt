@@ -1,0 +1,3 @@
+Hello world!
+this is java file handling example.
+Using FileWriter and file reader.
